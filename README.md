@@ -2,6 +2,7 @@
 
 Bem-vindo ao repositório do projeto de análise de evasão de clientes (Churn) da Telecom X! Este projeto tem como objetivo identificar padrões e fatores que influenciam a saída de clientes, fornecendo insights valiosos para reduzir a taxa de evasão e melhorar a retenção.
 
+
 📌 Objetivo
 
 O principal objetivo desta análise é:
@@ -12,6 +13,7 @@ Explorar relações entre características dos clientes (como tipo de contrato, 
 
 Gerar recomendações estratégicas para reduzir o Churn.
 
+
 🛠 Tecnologias Utilizadas
 
 Python para manipulação e análise de dados.
@@ -21,6 +23,7 @@ Pandas para tratamento e organização dos dados.
 Matplotlib/Seaborn para visualizações gráficas.
 
 Jupyter Notebook para documentação interativa do projeto.
+
 
 📂 Estrutura do Projeto
 
@@ -65,6 +68,7 @@ Oferecer incentivos para migração de contratos mensais para anuais.
 
 Melhorar a qualidade do serviço de fibra óptica ou oferecer suporte técnico dedicado.
 
+
 📊 Resultados Destacados
 
 Taxa de Churn: X% dos clientes cancelaram o serviço.
@@ -74,6 +78,7 @@ Fatores Críticos:
 Contrato "Month-to-month" tem Y% mais evasão.
 
 Clientes com "Fibra Óptica" representam Z% dos cancelamentos.
+
 
 👨‍💻 Como Executar o Projeto
 
