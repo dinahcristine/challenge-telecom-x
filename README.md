@@ -1,4 +1,5 @@
 📊 Análise de Evasão de Clientes (Churn) - Telecom X
+
 Bem-vindo ao repositório do projeto de análise de evasão de clientes (Churn) da Telecom X! Este projeto tem como objetivo identificar padrões e fatores que influenciam a saída de clientes, fornecendo insights valiosos para reduzir a taxa de evasão e melhorar a retenção.
 
 📌 Objetivo
