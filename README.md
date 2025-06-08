@@ -78,4 +78,5 @@ Melhorar a qualidade do serviço de fibra óptica ou oferecer suporte técnico d
 📄 Relatório Completo
 
 O relatório detalhado com código, visualizações e explicações está disponível no arquivo:
+
 🔹 TelecomX_BR (1).ipynb
